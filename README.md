@@ -1,3 +1,4 @@
+# Logical Thinking for Data Scientist
 ## 概要
  - 狙い
    - データ分析の実務において、以下が達成できるようになるためにロジカルシンキングの考えを学ぶ
