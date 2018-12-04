@@ -70,11 +70,16 @@
 		- 縦と横を組み合わせる
 	- DSへの適用事例
 		- ynakahashiの頭のなか
-			- Analytics Framework（四象限のやつ）
-			- 問題解決プロセス ×　分析目的
-				- 説明重視：Analytics For Decision Making
-				- 予測重視：Data Driven Decision Making
-			- 意思決定プロセス ×　ロール・階層
+			- Analyticsによる問題解決プロセス（四象限のやつ）
+				- Business × Issue
+				- Mathematics × Issue
+				- Mathematics × Solution
+				- Business × Solution 
+			- Analytics Framework
+				- 問題解決プロセス ×　分析目的
+					- 説明重視：Analytics For Decision Making
+					- 予測重視：Data Driven Decision Making
+				- 意思決定プロセス ×　ロール・階層
 			- データ分析マップ（工事中）
 				- データのタイプ × タスク
 			- モデルの発達
