@@ -1,0 +1,27 @@
+---
+title: "Logical Thinking for Data Scientist"
+author: "@ynakahashi"
+date: "2018/12/18"
+output: 
+   ioslides_presentation:
+      widescreen: true
+      transition: faster
+      # logo: DSC0030.jpg
+      # smaller: true
+---
+
+Goal
+========================================================
+
+## Goal | 狙い
+### データ分析の実務において、以下が達成できるようになるためにロジカルシンキングの考えを学ぶ
+- 効率的な仮説の立案
+- 網羅的なデータ収集
+- 納得感のある分析結果の提示
+
+## Goal | 対象者
+### コンサルワークを行うパッケージユーザー
+- ***Data Scientist***（スタッフレベル）
+- 所属（大学や研究所 or 民間） × 主な利用（アルゴリズム開発 or アルゴリズム当てはめ）で四象限に切ったとき、民間かつアルゴ当てはめ
+- どちらかと言えば機械学習エンジニアよりも統計モデラー
+- データによる意思決定をサポートする
