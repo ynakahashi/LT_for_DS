@@ -4,7 +4,7 @@ author: '@ynakahashi'
 date: "2018/12/18"
 output:
   ioslides_presentation:
-    logo: ~/Desktop/DSC_0030 20.08.51.jpg
+    logo: ~/Documents/GitHub/LT_for_DS/DSC_0030 20.08.51.jpg
     transition: faster
     widescreen: yes
   slidy_presentation: default
@@ -241,6 +241,10 @@ Contents
 	- 4P
 	- チャネルごとのハードル（UI、UX、店舗の近接度）
 	- その店でしか買えない
+
+
+Thank You!
+========================================================
 
 
 言い足りないこと
