@@ -4,7 +4,7 @@ author: '@ynakahashi'
 date: "2018/12/18"
 output:
   ioslides_presentation:
-    logo: ~/Documents/GitHub/LT_for_DS/DSC_0030 20.08.51.jpg
+    # logo: ~/Documents/GitHub/LT_for_DS/DSC_0030 20.08.51.jpg
     transition: faster
     widescreen: yes
   slidy_presentation: default
@@ -105,6 +105,7 @@ Contents
   	 		- 信念としての確率
   	 		- コルモゴロフの公理系 
    		- 蓋然性、可能性
+		- 無知の量としての確率
 - 仮説、観察、考察
 
 ## 1.2 科学方法論 | *ご参考*
@@ -133,7 +134,6 @@ Contents
 		- （枚挙的/経験的）帰納（ベーコン）
 		- アナロジー
 		- アブダクション（パース）
-		- IBE（何だっけかな）
 
 ## 2.1 論理の組み立て | ***縦****：論理的推論とロジックツリー*
 - ロジックツリー
@@ -158,8 +158,15 @@ Contents
 
 ## 2.1 論理の組み立て | *ピラミッドストラクチャ*
 - 縦と横を組み合わせる
+- 「論理的推論」が求められるのは「縦」
+- DS PJではこの推論の多くを（広い意味で）帰納に頼ることになる
+- その精度を高め、クライアントに疑問や不安を抱かせないように「横」を充実させる
 
 ## 2.1 論理の組み立て | *Analysis for Synthesis*
+- データ分析は帰納的に観測事実から法則を導く
+- ここで終わっては価値があまり出ない
+- 導いた法則から次に何が言えるか？を考える（演繹）
+- 検証？実装？それは案件による
 
 
 ## 2.2 DSへの適用事例
@@ -173,22 +180,29 @@ Contents
 	- Business × Issue
 	- Mathematics × Issue
 	- Mathematics × Solution
-	- Business × Solution 
+	- Business × Solution
+- DSに求められること
+	- 曖昧な課題をWell-Definedな形にすること、定式化
+	- それを解くこと
 
 ## 2.2 DSへの適用事例 | *ynakahashiの頭のなか*
 - Analytics Framework
-	- 問題解決プロセス ×　分析目的
+	- 問題解決プロセス × 分析目的
 		- 説明重視：Analytics For Decision Making
 		- 予測重視：Data Driven Decision Making
-	- 意思決定プロセス ×　ロール・階層
+	- 意思決定プロセス × ロール・階層
 
 ## 2.2 DSへの適用事例 | *ynakahashiの頭のなか*
 - データ分析マップ（工事中）
 	- データのタイプ × タスク
 
 ## 2.2 DSへの適用事例 | *ynakahashiの頭のなか*
-- モデルの発達
-	- 回帰モデル〜DNN
+- 回帰モデルの発展
+	- 回帰モデル
+	- 一般化線形モデル
+	- 一般化加法モデル
+	- カーネル
+	- DNN
 
 ## 2.2 DSへの適用事例 | *もう少し応用*
 - マクロな分析
